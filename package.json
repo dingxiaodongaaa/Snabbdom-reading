@@ -13,7 +13,7 @@
     "benchmark": "^2.1.4",
     "browserify": "^14.4.0",
     "fake-raf": "1.0.1",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-clean": "^0.3.2",
     "gulp-rename": "^1.2.2",
     "gulp-sourcemaps": "^2.6.0",
